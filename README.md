@@ -7,7 +7,7 @@ To launch the game, visit:
 https://joojoo0422.github.io/ForestNinjaRun/
 
 ## Directions
-Complete the trail within the given timeframe to win! Becareful of the obstacles you face and make sure you stay on track.
+Run through the forest to complete the trail within the given timeframe. Be careful of the obstacles you face and make sure you stay on track. Obstacles can be removed by using items from item boxes.
 
 ## Player Controls
 - Arrow Keys: Move ninja
