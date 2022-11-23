@@ -1,4 +1,4 @@
-# ForestNinjaRun
+# Forest Ninja Run
 This game was created by using Unity platform and C# language.
 The game is based on Red Belt material from Code Ninjas curriculum, with additions of CHEATER and Menu screens.
 
